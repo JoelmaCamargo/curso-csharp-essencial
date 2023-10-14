@@ -20,12 +20,13 @@ valor = "teste";
 //StringBuilder 
 
 //o tipo object funciona suporta todos os tipos de dados
-object nota = 10;
+object nota = 10;  //dynamic nota = 10;
 object valor1 = 8.55m;
 object nome1 = "Maria";
 object ativa = true;
 object letra = 'A';
 
+//dynamic e object tem comportamentos semelhantes
 //poderia definir como dynamic também os object - dynamic é útil quando precisamos usar recursos avançados como
 //Reflection ou usar recursos das linguagens dinâmicas através do Dynamic Language Runtime(DLR).
 
