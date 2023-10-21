@@ -66,7 +66,7 @@ Console.WriteLine();
 
 int varInt5 = 100000;
 Console.WriteLine(Convert.ToByte(varInt5));
-//intervalo do byte = 0 a 255, conversão com estreitamento de dados com perda de dados
+//intervalo do byte = 0 a 255, conversão com estreitamento de dados com perda de dados | o erro ocorre em tempo de execução
 
 Console.ReadLine();
 
