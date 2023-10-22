@@ -11,3 +11,7 @@ Console.WriteLine($"\ne a sua idade é: {idade} anos");
 Console.ReadKey();
 
 
+//ReadLine(): lê uma única linha de entrada do fluxo de entrada padrão. Retorna a mesma string
+//Read(): lê apenas um único caractere do fluxo de entrada padrão. retorna o valor ASCII do caractere.
+//ReadKey(): lê apenas um único caractere do fluxo de entrada padrão. Obtém a próxima tecla pressionada pelo usuário.
+//Retorna um tipo ConsoleKeyInfo. É uasado para segurar a tela até que o usuário pressione uma tecla.
