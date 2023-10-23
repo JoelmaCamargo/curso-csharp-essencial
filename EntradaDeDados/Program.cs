@@ -14,4 +14,4 @@ Console.ReadKey();
 //ReadLine(): lê uma única linha de entrada do fluxo de entrada padrão. Retorna a mesma string
 //Read(): lê apenas um único caractere do fluxo de entrada padrão. retorna o valor ASCII do caractere.
 //ReadKey(): lê apenas um único caractere do fluxo de entrada padrão. Obtém a próxima tecla pressionada pelo usuário.
-//Retorna um tipo ConsoleKeyInfo. É uasado para segurar a tela até que o usuário pressione uma tecla.
+//Retorna um tipo ConsoleKeyInfo. É usado para segurar a telç.9a até que o usuário pressione uma tecla.
